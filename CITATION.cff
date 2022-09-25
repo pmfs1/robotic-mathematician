@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: >-
+  𝓻𝓸𝓫𝓸𝓽𝓲𝓬-𝓶𝓪𝓽𝓱𝓮𝓶𝓪𝓽𝓲𝓬𝓲𝓪𝓷
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Pedro Miguel
+    family-names: Filipe Simões
+    email: pedromiguelfilipesimoes@protonmail.com
+abstract: >-
+  𝒜𝓁𝓈𝑜 𝓀𝓃𝑜𝓌𝑒𝒹 𝒶𝓈 𝓉𝒽𝑒 𝑀𝒩𝐼𝒮𝒯 𝒹𝒶𝓉𝒶𝓈𝑒𝓉, 𝒶𝓃 𝑒𝓍𝓉𝑒𝓃𝓈𝒾𝑜𝓃 𝑜𝒻
+  𝓉𝒽𝑒 𝒩𝐼𝒮𝒯 𝒹𝒶𝓉𝒶𝒷𝒶𝓈𝑒, 𝒾𝓈 𝒶 𝓁𝑜𝓌-𝒸𝑜𝓂𝓅𝓁𝑒𝓍𝒾𝓉𝓎 𝒹𝒶𝓉𝒶 𝒸𝑜𝓁𝓁𝑒𝒸𝓉𝒾𝑜𝓃
+  𝑜𝒻 𝒽𝒶𝓃𝒹𝓌𝓇𝒾𝓉𝓉𝑒𝓃 𝒹𝒾𝑔𝒾𝓉𝓈 𝓊𝓈𝑒𝒹 𝓉𝑜 𝓉𝓇𝒶𝒾𝓃 𝒶𝓃𝒹 𝓉𝑒𝓈𝓉 𝓋𝒶𝓇𝒾𝑜𝓊𝓈
+  𝓈𝓊𝓅𝑒𝓇𝓋𝒾𝓈𝑒𝒹 𝓂𝒶𝒸𝒽𝒾𝓃𝑒 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝒶𝓁𝑔𝑜𝓇𝒾𝓉𝒽𝓂𝓈.
+license: CC-BY-4.0
+version: '1.0'
